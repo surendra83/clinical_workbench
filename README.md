@@ -1,13 +1,23 @@
-# Project : Cliniciation Workbench
+# Project : Clinical Workbench View
+
 
 # step 1
+ Install nodejs
 
-- Install nodejs
-- copy project FRONTUI-VIEW
-- c:> CD  FRONTUI-VIEW   
-- c:\ FRONTUI-VIEW > 
-- c:\ FRONTUI-VIEW > npm install
-- c:\ FRONTUI-VIEW > npm run dev 
+
+ copy project Clinical Workbench
+
+
+``` bash
+
+ C:> CD  FRONTUI-VIEW   
+ C:\Clinical_workbench > 
+ C:\Clinical_workbench> npm install
+ C:\Clinical_workbench > npm run dev 
+
+
+```
 
 once dev server run check in browser:
-- Local:http://localhost:5173/
+
+Local:http://localhost:5173/
